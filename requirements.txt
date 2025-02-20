@@ -1,0 +1,8 @@
+imageio==2.31.1
+matlab==0.1
+matplotlib==3.7.2
+numpy==1.25.0
+opencv_contrib_python==4.8.0.76
+scipy==1.11.1
+scikit-image==0.21.0
+flask_cors
